@@ -1,2 +1,2 @@
 # cicd-book
-exercies
+exercises
